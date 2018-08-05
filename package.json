@@ -1,0 +1,19 @@
+{
+  "name": "chinampa",
+  "version": "1.0.0",
+  "description": "## 1. To start App, cd into myapp folder: npm start ## 2. Open browser window and type - localhost:3000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbuilt/Chinamapa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbuilt/Chinamapa/issues"
+  },
+  "homepage": "https://github.com/devbuilt/Chinamapa#readme"
+}
